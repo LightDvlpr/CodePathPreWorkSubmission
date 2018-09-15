@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<iframe src="https://giphy.com/embed/1r97iVg3Mzb0mn0fWs" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1r97iVg3Mzb0mn0fWs">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/1r97iVg3Mzb0mn0fWs/giphy.gif" width=200><br>
 
 
 ### Required User Stories
